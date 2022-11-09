@@ -1,0 +1,13 @@
+.idea
+user-management/target
+products-management/target
+delivery-management/target
+api-gateway/target
+auth-manager/target
+amqp/target
+notification/target
+commons/target
+auth-manager
+api-gateway/src/main/resources/certs
+README.md
+notification/src/main/resources/application.yml
